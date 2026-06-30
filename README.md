@@ -74,9 +74,9 @@ A Python project exploring backend integration between FastAPI and Snowflake.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belalhazem511/belalhazem511/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belalhazem511/belalhazem511/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/belalhazem511/belalhazem511/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belalhazem511/belalhazem511/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belalhazem511/belalhazem511/gh-pages/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/belalhazem511/belalhazem511/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
