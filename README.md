@@ -4,7 +4,7 @@
 
 # Belal Hazem
 
-### Data Engineer · Analytics Engineering · Python Backend
+[![Animated roles](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Data+Engineer+%C2%B7+Analytics+Engineer;Building+reliable+data+pipelines;Python+%C2%B7+SQL+%C2%B7+dbt+%C2%B7+Snowflake+%C2%B7+FastAPI)](https://git.io/typing-svg)
 
 I build reliable data collection, transformation, and delivery systems.
 
@@ -72,6 +72,12 @@ A Python project exploring backend integration between FastAPI and Snowflake.
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=belalhazem511&bg_color=050B18&color=E2E8F0&line=38BDF8&point=0EA5E9&area=true&hide_border=true" alt="Belal Hazem's GitHub contribution activity" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belalhazem511/belalhazem511/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belalhazem511/belalhazem511/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/belalhazem511/belalhazem511/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
